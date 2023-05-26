@@ -1,0 +1,35 @@
+#divWithInformationAboutDistance    {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn1   {
+    display: flex;
+}
+
+#btn.km {
+    border: none;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+
+.b1{
+    background-color: gray;
+    border: none;
+    cursor: pointer;
+    border-radius: 300px;
+}
+
+body    {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
